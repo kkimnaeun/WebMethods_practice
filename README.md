@@ -1,2 +1,2 @@
-# WebMethods_practice
-webMethods 교육 및 작성 방법 정리
+# 업무 지원
+쿼리 및 목업데이터 
